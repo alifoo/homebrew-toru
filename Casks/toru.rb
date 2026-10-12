@@ -1,6 +1,6 @@
 cask "toru" do
-  version "0.3.0"
-  sha256 "74ff0e604c9cb9156e11eaaeaac447e0f6b3fa9b617d4e9d2175a0a2f7e46e84"
+  version "0.4.0"
+  sha256 "c067b4adf2f3e827cca982700efa0fdb03f56f1f6141833dbe52af4818c5bc4f"
 
   url "https://toru.tools/downloads/mac/Toru-#{version}.zip"
   name "Toru"
